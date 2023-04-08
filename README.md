@@ -1,7 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python-logo"><br>
 
 # Exercicios do Python Brasil
----
 
 Este repositório contém a resolução dos exercícios disponibilizados pela Python Brasil.
 
