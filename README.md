@@ -2,10 +2,8 @@
 
 # Exercicios do Python Brasil
 
-Este repositório contém a resolução dos exercícios disponibilizados pela Python Brasil.
+1- Este repositório contém a resolução dos exercícios disponibilizados pela Python Brasil.<br>
 
----
+2- Lista de Exercícios disponível no site do [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)<br>
 
-Lista de Exercícios disponível no site do [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)<br>
-
-Tutorial Python disponível [aqui](http://www.tutorialspoint.com/python/index.htm)
+3- Tutorial Python disponível [aqui](http://www.tutorialspoint.com/python/index.htm)
